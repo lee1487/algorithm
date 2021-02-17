@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BeckJoon_9184 {
+public class BaekJoon_9184 {
 
 	/*함수 w에서 a,b,c 중 20이 넘어가면 w(20,20,20)을 호출하고
 	0 이하일 경우는 1을 반환하기 때문에

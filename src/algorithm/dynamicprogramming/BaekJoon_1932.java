@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BeckJoon_1932 {
+public class BaekJoon_1932 {
 
 	static int[][] arr;
 	static Integer[][] dp;

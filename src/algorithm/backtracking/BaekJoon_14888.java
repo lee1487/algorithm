@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BeckJoon_14888 {
+public class BaekJoon_14888 {
 
 	public static int max = Integer.MIN_VALUE;	// 최댓값
 	public static int min = Integer.MAX_VALUE;	// 최솟값
