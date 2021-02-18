@@ -13,7 +13,7 @@ public class BaekJoon_1463 {
 
 		int n = Integer.parseInt(br.readLine());
 		dp = new Integer[n+1];
-		dp[0]=0; dp[1]=0; dp[2]=1; dp[3]=1;
+		dp[0]=0; dp[1]=0;
 
 		System.out.println(recur(n));
 	}
